@@ -1,3 +1,17 @@
 footer ul li {
 	list-style: none;
 }
+
+.margintop {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.marginbottom {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.size {
+	width: 200px;
+}
