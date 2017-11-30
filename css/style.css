@@ -13,5 +13,14 @@ footer ul li {
 }
 
 .size {
-	width: 200px;
+	width: 210px;
+	height: 45px;
+}
+
+.padding_device {
+	padding-top: 10px;
+}
+
+.padding_bottom {
+	padding-left: 8px;
 }
