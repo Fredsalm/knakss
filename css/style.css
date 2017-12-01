@@ -1,3 +1,52 @@
+.h4 {
+	color: rgb(168, 118, 52);
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: small;
+}
+.h2 {
+	color: #484848;
+	text-transform:capitalize;
+}
+.h5 {
+	color: #484848;
+	font-weight: bold;
+	font-size: large;
+	text-transform: capitalize;
+}
+.h6 {
+	color: #484848;
+	font-size:small;
+	text-transform: capitalize;
+}
+.h3 {
+	color: #484848;
+	text-transform: capitalize;
+	font-weight: 600;
+	font-size: 16px;
+}
+h2 {
+	color: #484848;
+	text-transform: capitalize;
+	font-size: large;
+}
+body ul {
+	list-style: none;
+}
+.explorelink {
+	border: 1px solid #CCC;
+	text-decoration: none;
+	margin-right: 50px;
+
+}
+.explorelink img {
+	margin-right: 20px;
+}
+
+.exp {
+	margin-bottom: 50px;
+}
+
 body {
 	line-height: 0;
 }
