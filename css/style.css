@@ -2,6 +2,25 @@ footer ul li {
 	list-style: none;
 }
 
+footer ul li a {
+	text-decoration: none;
+	letter-spacing: 0.2px;
+	color: #767676;
+	font-family: sans-serif;
+	font-size: 15px;
+	line-height: 18px;
+	cursor: auto;
+}
+
+h2 {
+	font-family: sans-serif;
+	font-size: 15px;
+	line-height: 18px;
+	letter-spacing: 0.2px;
+	font-weight: 700;
+	color: #484848;
+}
+
 .margintop {
 	margin-left: 5%;
 	margin-right: 5%;
@@ -23,4 +42,13 @@ footer ul li {
 
 .padding_bottom {
 	padding-left: 8px;
+}
+
+.color_select {
+	background-color: white;
+}
+
+.hr_bottom {
+	margin-right: 5%; 
+	margin-left: 5%;
 }
